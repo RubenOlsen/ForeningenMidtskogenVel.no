@@ -6,10 +6,10 @@ title = '52/505, Svar på førespurnad om løyve til plassering av to kranbilar'
 showImage = false
 +++
 
-[Last ned selve dokumentet](/info/2025-10-08-Svar-fra-kommune-tillatelse-til-a-bruke-hotelltomten.pdf)
 
 **Svar fra Bjørnefjorden kommune, Plan- bygg- og miljøavdelinga, mottatt 8.10.2025:**
 
+[Last ned selve dokumentet](/info/2025-10-08-Svar-fra-kommune-tillatelse-til-a-bruke-hotelltomten.pdf)
 
 ### Innhold i brevet:
 

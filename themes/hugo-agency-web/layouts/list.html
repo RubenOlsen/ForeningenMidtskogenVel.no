@@ -47,6 +47,7 @@
     <div class="container mx-auto px-4 grid lg:grid-cols-2 xl:grid-cols-3 gap-x-20 gap-y-32 mb-28">
       {{ range .RegularPages }}
         <div class="">
+          {{ if ne false .Params.showImage }}
           <a class="block w-full aspect-square rounded-4xl overflow-hidden mb-10" href="{{ .Permalink }}">
             {{ with .Params.image }}
               {{ partial "utilities/image" (dict "src" . "class" "w-full h-full object-cover object-center")}}
@@ -55,9 +56,12 @@
               </div>
             {{ end }}
           </a>
+          {{ end }}
           <h1 class="text-2xl font-semibold leading-relaxed mb-8"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
           <div class="text-[#424242] leading-loose">
             {{ .Summary }}
+            <br />
+            {{ .Params.ShowDate }}
           </div>
         </div>
       {{ end }}

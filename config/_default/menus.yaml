@@ -11,8 +11,12 @@ main:
     url: "/info"
     weight: 4
 
+  - name: "Styrets arbeid"
+    url: "/styret"
+    weight: 5
+
 buttons:
   - name: "Høyhotellet"
     url: "/hoyhotellet"
-    weight: 5
+    weight: 6
 

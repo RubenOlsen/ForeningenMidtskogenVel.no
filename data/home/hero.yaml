@@ -7,22 +7,22 @@ text: "Foreningen Midtskogen Vel verner og ivaretek friluftsomådet Midtskogen i
 image: "images/forside.png"
 
 items:
-  - icon: "fas fa-user"
+  - icon: "fas fa-handshake"
     color: "#4628A4"
     title: "Vi har brukkrett til området."
     text: "Les vedtaket til Bjørnafjorden komune."
     link: "/info/brukksrett-til-omradet/"
 
-  - icon: "fas fa-user"
+  - icon: "fas fa-person-burst"
     color: "#5FC300"
     title: "Vår historie"
-    text: "Fra kyr og poteter"
+    text: "Fra kyr, poteter og bading til friområde."
     link: "/info/historie/"
 
-  - icon: "fas fa-user"
+  - icon: "fas fa-hotel"
     color: "#00329B"
     title: "Vårt forhold til høyhotellet"
     text: "Vern utsikt, lys og trivsel i Os sentrum"
-    link: "/hoyhotellet/"
+    link: "/presseskriv/2025-03-01---veggen-mot-fjorden--skammens-vegg/"
 
 

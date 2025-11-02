@@ -6,14 +6,6 @@
       <h1 class="text-primary font-bold uppercase mb-6 text-center xl:text-start">{{ site.Title }}</h1>
       <p class=" text-center xl:text-start">{{ site.Params.description }}</p>
     </div>
-    <div class="xl:col-span-2">
-      <h1 class="font-medium mb-6 text-center xl:text-start">Om foreningen</h1>
-      <ul class="">
-        {{ range site.Menus.footer }}
-          <li class="mb-2 text-center xl:text-start"><a class="text-[#515151]" href="{{ .URL }}">{{ .Name }}</a></li>
-        {{ end }}
-      </ul>
-    </div>
     <div class="xl:col-span-3">
       <h1 class="font-medium mb-6 text-center xl:text-start">{{ site.Data.shared.footer.contact.title }}</h1>
       <ul class="">

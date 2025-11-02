@@ -11,12 +11,16 @@ main:
     url: "/info"
     weight: 4
 
+  - name: "Presseskriv"
+    url: "/presseskriv"
+    weight: 5
+
   - name: "Styrets arbeid"
     url: "/styret"
-    weight: 5
+    weight: 6
 
 buttons:
   - name: "Høyhotellet"
     url: "/hoyhotellet"
-    weight: 6
+    weight: 7
 

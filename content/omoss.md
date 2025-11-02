@@ -4,11 +4,15 @@ title = 'Foreningen Midtskogen Vel'
 +++
 
 ## Adresse
+Foreningen Midtskogen Vel \
 c/o Knut Natvik \
-Kolabakkane 7C \
-5200 OS
+Kolabakkane 7c  \
+5200 Os
 
-Organisasjonsnummer 935 087 279
+Telefon:   91539033	         
+
+Organisasjonsnummer 935 087 279 \
+Bankkonto: 1520.20.49033         
 
 
 ## Styret

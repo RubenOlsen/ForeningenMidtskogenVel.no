@@ -3,4 +3,13 @@
   {{ with site.Data.home.features }}{{ if .enable }}{{ partial "blocks/home/features" . }}{{ end }}{{ end }}
   {{ with site.Data.home.highlights }}{{ if .enable }}{{ partial "blocks/home/highlights" . }}{{ end }}{{ end }}
   {{ with site.Data.home.clients }}{{ if .enable }}{{ partial "blocks/home/clients" . }}{{ end }}{{ end }}
-{{ end }}
+
+
+  {{ partial "utilities/last-updated-list.html" (dict "myStuff" . "mySection" "styret" "myCount" 6) }}
+
+
+{{end}}
+
+
+
+

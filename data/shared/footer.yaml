@@ -1,0 +1,13 @@
+enable: true
+
+contact:
+  title: "Kontaktinformasjon"
+  items:
+    - label: "Leder: Knut Natvik"
+      link: ""
+    - label: "Epost: hei@midtskogenvel.no"
+      link: ""
+    - label: "Telefon: 91539033"
+      link: ""
+
+copyright: "® Foreningen Midtskogen Vel"

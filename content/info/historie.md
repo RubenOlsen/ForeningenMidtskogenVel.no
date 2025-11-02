@@ -15,7 +15,8 @@ På slutten av **1960-talet** endra bruken seg: marka vart då nytta som **ekstr
 
 ## Frå jord til bustadfelt og friområde
 
-Området vart seinare **ekspropriert av Os kommune** (no Bjørnafjorden kommune), og **to rekkjehus** vart bygde. Desse stod ferdige om lag **1972/73**. Kjøparane av bustadene spleisa på kostnadene knytte til det som i dag er **friområdet**. Etter avtale utarbeidd av **kommunen sitt tomteselskap** vart **eigedomsretten til sjølve friområdet ført attende til Os kommune**, slik at området kunne liggja tilgjengeleg for allmenta og nabolaget over tid.
+Området vart seinare **ekspropriert av Os kommune** (no Bjørnafjorden kommune), og **to rekkjehus** vart bygde. Desse stod ferdige om lag **1972/73**. 
+Kjøparane av de 42 eigedomane spleisa på kostnadene knytte til det som i dag er **friområdet**. Etter avtale utarbeidd av **kommunen sitt tomteselskap** vart **eigedomsretten til sjølve friområdet ført attende til Os kommune**, slik at området kunne liggja tilgjengeleg for allmenta og nabolaget over tid.
 
 ## Stiftinga av Midtskogen Vel
 

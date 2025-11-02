@@ -27,9 +27,11 @@
         {{ end }}
       </div>
       <div class="flex flex-col justify-center items-center">
+        <div class="block aspect-square rounded-4xl overflow-hidden mb-10" href="#">
         {{ with .image }}
           {{ partial "utilities/image" (dict "src" . "class" "object-cover object-center")}}
         {{ end }}
+        </div>
       </div>
     </div>
     {{ if .items }}

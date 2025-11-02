@@ -1,0 +1,28 @@
+enable: true
+
+title: "Arbeid for felles interesser i forhold til Bjørnefjorden kommune og utbyggere i området."
+text: "Foreningen Midtskogen Vel verner og ivaretek friluftsomådet Midtskogen i Os sentrum. Friområdet er ein grøn lunge midt i nabolaget og ein lågterskel møteplass for born, ungdom og vaksne. Her kan ein leika, spela ball, ta ein prat over gjerdet – eller berre pusta ut. Slik bidreg området til trivsel, helse og tryggleik i kvardagen."
+
+
+image: "images/forside.png"
+
+items:
+  - icon: "fas fa-user"
+    color: "#4628A4"
+    title: "Vi har brukkrett til området."
+    text: "Les vedtaket til Bjørnafjorden komune."
+    link: "/info/brukksrett-til-omradet/"
+
+  - icon: "fas fa-user"
+    color: "#5FC300"
+    title: "Vår historie"
+    text: "Fra kyr og poteter"
+    link: "/info/historie/"
+
+  - icon: "fas fa-user"
+    color: "#00329B"
+    title: "Vårt forhold til høyhotellet"
+    text: "Vern utsikt, lys og trivsel i Os sentrum"
+    link: "/hoyhotellet/"
+
+

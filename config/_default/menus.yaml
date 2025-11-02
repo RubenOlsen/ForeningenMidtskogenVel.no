@@ -1,0 +1,18 @@
+main:
+  - name: "Startsiden"
+    url: "/"
+    weight: 1
+
+  - name: "Om oss"
+    url: "/omoss"
+    weight: 2
+
+  - name: "Infosider"
+    url: "/info"
+    weight: 4
+
+buttons:
+  - name: "Høyhotellet"
+    url: "/hoyhotellet"
+    weight: 5
+

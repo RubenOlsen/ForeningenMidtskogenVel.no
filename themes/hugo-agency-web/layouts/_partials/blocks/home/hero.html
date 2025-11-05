@@ -6,15 +6,21 @@
     {{ partial "utilities/svg" (dict "src" "images/hero/bg-blob-2.svg")}}
   </div>
   <div class="container mx-auto px-4">
+
+    {{ if .importantTitle }}
+    <div class="grid xl:grid-cols-1 gap-8 mb-24">
+      <div class="flex flex-col justify-center gap-4">
+    <a class="bg-primary hover:bg-primary/90 text-center rounded-lg px-5 py-2 text-white duration-500" href="{{ .importantLink }}">
+      <span class="text-primary text-3xl text-white font-semibold xl:text-3xl">{{ .importantTitle }}</span><br/>
+      <span class="text-primary text-2xl text-white font-semibold xl:text-2xl"> </span><br />
+      <h2 class="text-xl font-medium text-center">{{ .importantText }}</h2><br />
+      Klikk for å lese mer </a>
+        </div>
+    </div>
+    {{ end }}
+
     <div class="grid xl:grid-cols-2 gap-8 mb-24">
       <div class="flex flex-col justify-center gap-4">
-
-        {{ if .importantTitle }}
-        <a class="bg-primary hover:bg-primary/90 text-center rounded-lg px-5 py-2 text-white duration-500" href="{{ .importantLink }}">
-          <span class="text-primary text-2xl text-white font-semibold xl:text-2xl">{{ .importantTitle }}</span>
-          <h2 class="text-xl font-medium text-center xl:text-start">{{ .importantText }}</h2>
-          Klikk for å lese mer </a>
-        {{ end }}
 
         {{ with .title }}
         <h1 class="markdown-title text-center xl:text-start text-4xl xl:text-5xl font-semibold xl:leading-normal">{{ . | markdownify }}</h1>

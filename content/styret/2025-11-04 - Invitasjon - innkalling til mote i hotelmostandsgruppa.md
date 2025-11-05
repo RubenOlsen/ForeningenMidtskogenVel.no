@@ -66,6 +66,10 @@ Styret godkjenner at siste delen av rekninga frå advokat Chriss Bjorøy, til sa
 Kommentarar: Uteståande sum er kr (19 000 – 11 750) x 1.25 = kr 9 062,50.
 Summen gjeld kostnader til å følje opp klagen som styreleiar sende på Områdeplanen for Osøyro der dei utelot Hotelltomta fra høgdereglane som gjeld for Osøyro. Styreleiar har betalt klagen sjølve og betaler også for oppføljinga om møtet ikkje godkjenner denne kostnaden. Han har inga forslag til vedtak til saka og fråtrer under handsamingan av denne då han er ugild.
 
+[Last ned faktura fra RIISA Bergen](/info/2025-11-14-FakturaFraChrisBjoroy-OmradeplanenOgInnlegg.pdf)
+
+
+
 
 ## Sak 25-06	Anna
 

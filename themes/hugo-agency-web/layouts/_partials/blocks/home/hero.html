@@ -10,17 +10,14 @@
       <div class="flex flex-col justify-center gap-4">
 
         {{ if .importantTitle }}
-        <div class="container ">
-          <a class="flex items-center" href="{{ .importantLink }}">
-            <span class="text-primary text-2xl font-semibold xl:text-2xl">{{ .importantTitle }}</span>
-          </a>
+        <a class="bg-primary hover:bg-primary/90 text-center rounded-lg px-5 py-2 text-white duration-500" href="{{ .importantLink }}">
+          <span class="text-primary text-2xl text-white font-semibold xl:text-2xl">{{ .importantTitle }}</span>
           <h2 class="text-xl font-medium text-center xl:text-start">{{ .importantText }}</h2>
-          <br />
-        </div>
+          Klikk for å lese mer </a>
         {{ end }}
 
         {{ with .title }}
-          <h1 class="markdown-title text-center xl:text-start text-4xl xl:text-5xl font-semibold xl:leading-normal">{{ . | markdownify }}</h1>
+        <h1 class="markdown-title text-center xl:text-start text-4xl xl:text-5xl font-semibold xl:leading-normal">{{ . | markdownify }}</h1>
         {{ end }}
         {{ with .text }}
         <p class="xl:leading-loose text-center xl:text-start text-[#5C5C5C]">{{ . }}</p>

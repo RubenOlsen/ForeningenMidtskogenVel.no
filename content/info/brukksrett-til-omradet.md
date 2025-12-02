@@ -32,4 +32,4 @@ det vert fatta otfentleg vedtak som hindrar slik bruk, fell bruksretten automati
 kompensasjon. Klausulen skal sikre at grunneigar ikkje vert bunden dersom eigedomen får endra
 reguleringsstatus eller vert ønskt nytta på annan måte.
 
-[Last ned selve dokumentet](/info/bruksrett-til-omradet.pdf)
+[Last ned selve dokumentet](/info/Bruksrett-til-omradet.pdf)

@@ -69,18 +69,18 @@ Dersom to eller flere medlemmer ønsker hemmelig valg, så skal valget være hem
 Det skal velges representanter til styret, revisor og medlem pluss en vararepresentant til valgkomitéen.
 Innkallingsfristen er minst 14 dager.
 
-**§10 — Ekstraordinært årsmøte**
+### §10 — Ekstraordinært årsmøte
 
 Ekstraordinært årsmøte skal avholdes når styret eller minst 10 medlemmer ønsker dette.
 Medlemmer som ønsker ekstraordinært årsmøte, må sende kravet skriftlig til styret. Skrivet må inneholde opplysninger om hvilken sak/hvilke saker som skal behandles.
 Innkalling og avvikling følger samme prosedyre som ved ordinært årsmøte.
 
-### **§11 — Grupper og komitéer**
+### §11 — Grupper og komitéer
 
 Årsmøte, styre og medlemsmøte kan opprette komitéer og arbeidsgrupper. Medlemmene i komitéen skal velges eller godkjennes av den enhet som opprettet komitéen/arbeidsgruppen. En komité kan endres av overordnet organ.
 Når det opprettes en komité/arbeidsgruppe skal gruppen få et navn, et formål og det skal framgå hvilke personer som leder gruppen.
 
-### **§12 — Medlemmer**
+### §12 — Medlemmer
 
 Alle personer med bostedsadresse i Midtskogveien, Kolabakkene og Laksavegen  i Bjørnefjorden kommune og er over 10 år, kan bli medlem i Foreningen Midtskogen vel.
 

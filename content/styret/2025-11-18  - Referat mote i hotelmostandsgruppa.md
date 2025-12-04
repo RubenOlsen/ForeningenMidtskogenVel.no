@@ -12,15 +12,15 @@ Søndag den 16. november 2025 kl 18.00 vart halde møte i gruppa som arbeider mo
 
 Dei som møtte var:
 
-Thuen og Dalhaug, Kolabakkane 
-Klyve og Olsen, Kolabakkane 
-Bernsen, Kolabakkane
-Glomsaas og Lærk, Kolabakkane
-Lunde, Kolabakkane 
-Natvik, Kolabakkane 
-Moberg, Kolabakkane
-Horvik og Pedersen, Kolabakkane 
-Olsen, Kolabakkane
+- Thuen og Dalhaug, Kolabakkane 
+- Klyve og Olsen, Kolabakkane 
+- Bernsen, Kolabakkane
+- Glomsaas og Lærk, Kolabakkane
+- Lunde, Kolabakkane 
+- Natvik, Kolabakkane 
+- Moberg, Kolabakkane
+- Horvik og Pedersen, Kolabakkane 
+- Olsen, Kolabakkane
 
 Drange og Hauge kunne ikkje koma på møtet.
 
@@ -38,7 +38,7 @@ d) Alle beløp over kr 5 000 skal leggast fram for medlema i gruppa til uttale.
 
 ## Sak 25-04 Uttale til høyringa om hotellplanane
 
-**vedtak:** Ein vil bruka advokat Chris Bjorøy i advokatfirmaet Risaa til å skriva vår høyringsuttale som må legga vekt på:
+**Vedtak:** Ein vil bruka advokat Chris Bjorøy i advokatfirmaet Risaa til å skriva vår høyringsuttale som må legga vekt på:
 
 a) Den kommunale planleggingsprosessen ber preg av at ein berre har hatt eit resultat i tankane heilt frå første offisielle steg vart tatt.
 

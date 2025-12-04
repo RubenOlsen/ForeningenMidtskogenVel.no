@@ -69,11 +69,8 @@ Organisering, gjennomføring og drift
 ### Økonomi
 - **Samla kostnadsramme: kr 150 000**
 - **Søknadssum: kr 150 000**
-  - Alle midlar går uavkorta til **materiell, leikeapparat, belysning, benkar/bord, grønt og nødvendig driftstilbehør**. Arbeidet er basert på **frivillig dugnad**.
-
+- Alle midlar går uavkorta til **materiell, leikeapparat, belysning, benkar/bord, grønt og nødvendig driftstilbehør**. Arbeidet er basert på **frivillig dugnad**.
    
-*(Ved behov kan vi leggje ved ein forenkla budsjettoversikt etter kostnadstypar og ei enkel framdriftsplan.)*
-
 ### Kvifor støtte dette tiltaket?
 - **Inkludering**: Opent og gratis tilbod for heile nabolaget – også barnehagar og skular.
 - **Folkehelse**: Lågterskel aktivitet og møteplassar som styrkjer trivsel og samhald.
@@ -86,16 +83,24 @@ Midtskogen Vel søkjer om støtte til å realisere ei naudsynt og framtidsretta 
 Vi takkar for tida di og ser fram til høvet til å presentere prosjektet nærare.
 Ta gjerne kontakt for tilleggsopplysningar eller synfaring.
 
-Med venleg helsing\
-**Foreninga Midtskogen Vel (FMV)**
-[Kontaktperson], leiar – [telefon] – [epost]
-[Adresse] – [Org.nr.]
+Med venleg helsing
 
-**Vedlegg (valfritt):**
-1.[Bruksrettavtale](/info/bruksrett-til-omradet.md)
-2. Enkle skisser/ foto av dagens tilstand
-3. [Forenkla budsjeett og framdriftsplan)(/info/budsjett-utvikling-av-friomrade.xls)
-4. Dugnadsopplegg og vedlikehaldsrutiner
+**Foreninga Midtskogen Vel (FMV)**\
+c/o Knut Natvik\
+Kolabakkane 7c\
+5200 Os
+
+Telefon: 91539033
+
+Organisasjonsnummer 935 087 279\
+Bankkonto: 1520.20.49033
+
+**Vedlegg:**
+
+1. [Bruksrettavtale](/info/bruksrett-til-omradet)
+1. Enkle skisser/ foto av dagens tilstand
+1. [Forenkla budsjeett og framdriftsplan](/info/budsjett-utvikling-av-friomradet.xlsx)
+1. Dugnadsopplegg og vedlikehaldsrutiner
 
 
 

@@ -28,3 +28,13 @@ module:
 
     - source: 'assets'
       target: 'assets'
+
+security:
+  exec:
+    allow:
+      - '^(dart-)?sass$'
+      - '^go$'
+      - '^git$'
+      - '^node$'
+      - '^postcss$'
+      - '^tailwindcss$'

@@ -6,9 +6,12 @@ text: "Foreningen Midtskogen Vel verner og ivaretek friluftsomådet Midtskogen i
 
 image: "images/forside.png"
 
-# importantTitle: "Invitasjon til møte i Hotellmotstandsgruppa"
-# importantText: "Møtet finn stad i Vognhallen søndag den 16. november 2025 kl 18.00"
-# importantLink: "/styret/2025-11-04---invitasjon---innkalling-til-mote-i-hotelmostandsgruppa/"
+importantTitle: "Spørreundersøkelse "
+importantText: "Er du for eller i mot eit byggeprosjekt på Mobergsneset med eit hotell som vil bli meir enn 40 meter høgt og eit totalt golvareal på meir enn 20 000 rutemeter?
+Til samanikning Bergen rådhus er omlag 50 meter høgt og har eit golvareal på 10 400 rutemeter."
+importantLink: "https://no.surveymonkey.com/r/DZCFDJR"
+# importantMore: "Klikk for å lese mer"
+importantMore: "Klikk for å besvare undersøkelsen"
 
 items:
   - icon: "fas fa-handshake"

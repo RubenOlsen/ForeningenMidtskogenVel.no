@@ -14,7 +14,7 @@
       <span class="text-primary text-3xl text-white font-semibold xl:text-3xl">{{ .importantTitle }}</span><br/>
       <span class="text-primary text-2xl text-white font-semibold xl:text-2xl"> </span><br />
       <h2 class="text-xl font-medium text-center">{{ .importantText }}</h2><br />
-      Klikk for å lese mer </a>
+      {{ .importantMore | default "Klikk for å lese mer" }} </a>
         </div>
     </div>
     {{ end }}

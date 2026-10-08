@@ -16,3 +16,4 @@ package-lock.json
 copilot*
 playwright.config.ts
 example.spec.ts
+*.swp
